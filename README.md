@@ -167,7 +167,7 @@ public class Certification {
 
 ## 📌 목차
 
-[Run With Me ? 🏃](#triangular_flag_on_post-run-with-me--%EF%B8%8F) 
+[NSU 과팅 APP 💌](#triangular_flag_on_post-run-with-me--%EF%B8%8F) 
 
 * [사용된 도구](#hammer_and_wrench-사용된-도구)
 
