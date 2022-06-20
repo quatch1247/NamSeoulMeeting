@@ -5,6 +5,18 @@
 
 - ### 프로젝트 개요
 
+
+
+<img src="![Uploading 노트북.png…]()" width="30%">
+
+
+
+
+
+
+
+
+
   - ⚡ [NSU 번개](https://www.nsu.ac.kr/)
 
   - `NSU 과팅 APP`은 2년동안의 코로나 시국에서의 인간관계의 결여를 탈피하기 위해 NSU 학생들만 사용할 수 있는 WEB기반의 APP서비스이다.
