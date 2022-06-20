@@ -7,7 +7,7 @@
 
 
 
-<img src="![Uploading 노트북.png…]()" width="30%">
+<img src="./READMEFILE/노트북.png" width="30%">
 
 
 
