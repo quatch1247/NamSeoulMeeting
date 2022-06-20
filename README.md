@@ -7,15 +7,9 @@
 
 
 
-<img src="./READMEFILE/노트북.png" width="60%" align-text:center >
+<img src="./READMEFILE/노트북.png" width="70%" align-text:center >
 
-
-
-
-
-
-
-
+<br>
 
   - ⚡ [NSU 번개](https://www.nsu.ac.kr/)
 
