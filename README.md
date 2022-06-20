@@ -175,8 +175,6 @@ public class Certification {
 
 * [저자](#-저자)
 
-* [라이센스](#page_with_curl-라이센스)
-
   
 
 
